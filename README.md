@@ -65,8 +65,8 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 ## Actividad
 
 <p>
-  <img alt="Estadísticas de GitHub" height="165" src="https://github-readme-stats.vercel.app/api?username=Joseepc18&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&icon_color=20e4bc&border_color=1c3338&hide_rank=true">
-  <img alt="Lenguajes más usados" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseepc18&layout=compact&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338&langs_count=6">
+  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Joseepc18&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&icon_color=20e4bc&border_color=1c3338&hide_rank=true&hide=stars">
+  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseepc18&layout=compact&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338&langs_count=6">
 </p>
 
 <p>
