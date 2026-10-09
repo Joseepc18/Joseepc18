@@ -43,8 +43,8 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 <h2 align="center">Actividad</h2>
 
 <p align="center">
-  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Joseepc18&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&card_width=400&line_height=26&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338&icon_color=20e4bc">
-  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseepc18&layout=compact&langs_count=8&card_width=400&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338">
+  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Joseepc18&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&card_width=400&line_height=26&custom_title=Estad%C3%ADsticas&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338&icon_color=20e4bc">
+  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseepc18&layout=compact&langs_count=6&card_width=400&custom_title=Lenguajes&bg_color=0b151a&title_color=20e4bc&text_color=b2c0d0&border_color=1c3338">
 </p>
 
 <p align="center">
