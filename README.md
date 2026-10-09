@@ -10,7 +10,7 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 <br>
 
 <a href="https://codework-studio.com"><img alt="Web" src="https://img.shields.io/badge/Web-codework--studio.com-20E4BC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B151A"></a>
-<a href="mailto:contacto@codework-studio.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-contacto@codework--studio.com-20E4BC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B151A"></a>
+<a href="mailto:jose2905.jepc@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-jose2905.jepc@gmail.com-20E4BC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B151A"></a>
 <a href="https://github.com/codework-studio-dev"><img alt="Organización" src="https://img.shields.io/badge/GitHub-codework--studio--dev-20E4BC?style=for-the-badge&logo=github&logoColor=white&labelColor=0B151A"></a>
 
 </div>
@@ -22,45 +22,6 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 <p>
   <img alt="Stack" src="https://skillicons.dev/icons?i=php,laravel,java,py,react,ts,postgres,redis,docker,nginx,git&theme=dark">
 </p>
-
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Joseepc18/Proyecto-Gestion-de-Incidencias"><img alt="Gestión de Incidencias" src="https://codework-studio.com/assets/images/proyectos/project-map.webp" width="100%"></a>
-      <h3>Gestión de Incidencias Georreferenciadas</h3>
-      <p>Reporte y seguimiento de incidencias urbanas con mapa, evidencia fotográfica, chat en tiempo real y tablero de indicadores.</p>
-      <p>
-        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      </p>
-      <p><a href="https://incidenciasupse.site"><b>Ver demo →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Joseepc18/red-social-distribuida"><img alt="Red Social Distribuida" src="https://codework-studio.com/assets/images/proyectos/project-social.webp" width="100%"></a>
-      <h3>Red Social Distribuida</h3>
-      <p>Perfiles, feed, chat en tiempo real y notificaciones push, con varias instancias de backend balanceadas con Nginx.</p>
-      <p>
-        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-        <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white">
-        <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-      </p>
-      <p><a href="https://github.com/Joseepc18/red-social-distribuida"><b>Ver repositorio →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Mercado Laboral Tech en Ecuador</h3>
-      <p>Plataforma de inteligencia de negocios que integra 7 fuentes de datos (scraping, APIs y estadísticas del INEC) para comparar salarios, modalidad y tecnologías demandadas.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-        <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-      </p>
-      <p><a href="https://github.com/Joseepc18/proyecto-bi"><b>Ver repositorio →</b></a></p>
-    </td>
-  </tr>
-</table>
 
 ## Actividad
 
