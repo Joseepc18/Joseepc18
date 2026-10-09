@@ -11,7 +11,6 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 
 <a href="https://codework-studio.com"><img alt="Web" src="https://img.shields.io/badge/Web-codework--studio.com-20E4BC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B151A"></a>
 <a href="mailto:jose2905.jepc@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-jose2905.jepc@gmail.com-20E4BC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B151A"></a>
-<a href="https://github.com/codework-studio-dev"><img alt="Organización" src="https://img.shields.io/badge/GitHub-codework--studio--dev-20E4BC?style=for-the-badge&logo=github&logoColor=white&labelColor=0B151A"></a>
 
 </div>
 
