@@ -20,7 +20,7 @@ Diseñamos y construimos aplicaciones web para negocios y comunidades.<br>
 ## Stack
 
 <p>
-  <img alt="Stack" src="https://skillicons.dev/icons?i=php,laravel,java,py,react,ts,postgres,neo4j,redis,docker,nginx,git&theme=dark">
+  <img alt="Stack" src="https://skillicons.dev/icons?i=php,laravel,java,py,react,ts,postgres,redis,docker,nginx,git&theme=dark">
 </p>
 
 ## Proyectos destacados
